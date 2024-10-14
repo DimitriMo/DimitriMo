@@ -5,7 +5,7 @@ A developer from France passionate about cybersecurity and AI
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Federated learning**](https://github.com/DimitriMo/FederatedLearning/) | Differential privacy and byzantine resilience in federated learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| [**Federated learning**](https://github.com/DimitriMo/Federated-Learning/) | Differential privacy and byzantine resilience in federated learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 
 
