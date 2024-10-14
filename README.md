@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'm Dimitri Morelle 👋
+A developer from France passionate about cybersecurity and AI
+
+## Personal Projects
+
+- [**Federated learning**](https://github.com/DimitriMo/FederatedLearning) : Differential privacy and byzantine resilience in federated learning
+
 
 <!--
 **DimitriMo/DimitriMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
