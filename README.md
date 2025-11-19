@@ -11,17 +11,15 @@ A developer from France looking to be a Data Analyst
 |---------|-------------|--------------|
 | [**Iris Statistical Analysis**](https://github.com/DimitriMo/Iris_Stat_Analysis) | Statistical analysis, visualization, ANOVA & linear regression on the Iris dataset | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-DC4FBD?style=for-the-badge&logo=ggplot2&logoColor=white) |
 
-
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [**Federated learning**](https://github.com/DimitriMo/Federated-Learning/) | Differential privacy and byzantine resilience in federated learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [**Diabetes Data Analysis**](https://github.com/DimitriMo/Diabetes-Data-Analysis) | Data cleaning, exploratory analysis and interactive dashboard creation for diabetes dataset. Insights on factors affecting diabetes risk (BMI, glucose, age, pregnancies). | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 
 
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Federated learning**](https://github.com/DimitriMo/Federated-Learning/) | Differential privacy and byzantine resilience in federated learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 
 <!--
