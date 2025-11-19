@@ -3,6 +3,10 @@ A developer from France looking to be a Data Analyst
 
 ## Personal Projects
 
+
+| [**Amazon Sales Analysis**](https://github.com/DimitriMo/Projet_Amazon_Analyse/) | Data cleaning, exploratory analysis, visualization & business insights from Amazon sales data | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+
+
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [**Federated learning**](https://github.com/DimitriMo/Federated-Learning/) | Differential privacy and byzantine resilience in federated learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
