@@ -17,6 +17,11 @@ A developer from France looking to be a Data Analyst
 |---------|-------------|--------------|
 | [**Federated learning**](https://github.com/DimitriMo/Federated-Learning/) | Differential privacy and byzantine resilience in federated learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**Diabetes Data Analysis**](https://github.com/DimitriMo/Diabetes-Data-Analysis) | Data cleaning, exploratory analysis and interactive dashboard creation for diabetes dataset. Insights on factors affecting diabetes risk (BMI, glucose, age, pregnancies). | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+
+
 
 
 <!--
