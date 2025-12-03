@@ -1,5 +1,5 @@
 ## Hi I'm Dimitri Morelle 👋
-A developer from France looking to be a Data Analyst
+A developer from France.
 
 ## Personal Projects
 
